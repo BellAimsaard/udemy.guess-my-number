@@ -118,28 +118,42 @@ h1 {
   margin-bottom: 2rem;
 }
 
-@media only screen and (max-width: 767px) {
+@media screen and (max-width: 767px) {
+  header {
+    height: 210px;
+  }
+
+  h1 {
+    font-size: 20px;
+    position: absolute;
+    top: 120px;
+  }
+
   .between {
     font-size: 12px;
-    position: static;
-    margin-top: 5%;
+    top: 10px;
     text-align: center;
+    right: initial;
+    position: relative;
   }
 
-  .btn.again {
-    margin-top: 5%;
-    left: initial;
-  }
-
-  .btn-center {
+  .center {
     display: flex;
     justify-content: center;
     align-items: center;
   }
 
-  h1 {
-    font-size: 20px;
-    margin-top: 20px;
+  .btn.again {
+    position: relative;
+    top: 20px;
+    left: initial
+  }
+
+  .number {
+    position: relative;
+    top: 70px;
+    left: initial;
+    transform: translate(0%, 0%);
   }
 
   .left-right {
