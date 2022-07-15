@@ -1,6 +1,6 @@
 # udemy.guess-my-number
 🎮 Let's play game ➡ https://bellaimsaard.github.io/udemy.guess-my-number/
-<br />This game supports both laptop and mobile.
+<br />This game supports both on laptop and on mobile.
 <br />
 <br />
 <p align="center">
