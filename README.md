@@ -11,7 +11,7 @@
  
 <br />
 <p align="center">
-  <img width=30% height=30% src="https://user-images.githubusercontent.com/28094471/179157331-0d6fb4df-1db9-4dd0-ac00-7dca42c62ece.png">
+  <img width=25% height=25% src="https://user-images.githubusercontent.com/28094471/179157331-0d6fb4df-1db9-4dd0-ac00-7dca42c62ece.png">
   <br>
     <em>Screen on Mobile</em>
 </p>
